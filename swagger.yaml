@@ -40,7 +40,7 @@ definitions:
         format: "int64"
       name:
         type: "string"
-        example: "hejsan ${=new File('/etc/passwd').text}"
+        example: "hejsan "
       tag:
         type: "string"
         example: "my tag\nhas many\nlines"
