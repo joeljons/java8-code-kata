@@ -43,4 +43,4 @@ definitions:
         example: "hejsan "
       tag:
         type: "string"
-        example: "my tag\nhas many\nlines"
+        example: "my tag\nhas many\nlinesssss"
